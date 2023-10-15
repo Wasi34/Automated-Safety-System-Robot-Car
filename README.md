@@ -8,7 +8,7 @@ Features of this robot: <br/>
 2. Self-driven obstacle avoidance robot car. <br/>
 3. Throwing water to extinguish the fire at the identified place. <br/>
 
-
+Software used: Arduino
 
 
 
